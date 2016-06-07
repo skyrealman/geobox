@@ -1,3 +1,3 @@
 # geobox
 http://www.geobox.cn 
-geobox project manager for mac
+geobox projects manager for mac
